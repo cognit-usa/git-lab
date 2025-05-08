@@ -1,2 +1,2 @@
 Git practice - day 1 
-Wrting scripts for training filter - step 1
+Wrtting scripts for training filter - step 1
